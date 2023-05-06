@@ -39,4 +39,21 @@ Por ultimo con las palabras reservadas try catch cerramos todos los objetos que 
 
 ![img3](https://user-images.githubusercontent.com/128442954/236641366-6f3b169a-6d16-400e-98d0-a52f49718c0e.JPG)
 
+para visualizar la conexion usamos otro archivo llamado useConnectionSingleton, en este caso solo para que nos muestre el nombre y el apellido
+
+![img4](https://user-images.githubusercontent.com/128442954/236641457-7b8d8b3d-8766-4fa8-acf6-c477096561d9.JPG)
+
+-Archivo ConnectionPool: Por ultimo para las formas de conexiones que tenemos es el pool de conexiones para que se pueda conectar varios usuarios al mismo tiempo, funciona como un cajon para guardar cada conexion una vez se deja de usar una conexion la devuelve 
+
+funciona con una dependencia de apache en este caso dbcp2 a traves de BasicDataSource y como singleton se declara en este archivo todo lo que vamos a usar y en otro archivo usamos para probar si funciona nuestra conexion. 
+
+![img5](https://user-images.githubusercontent.com/128442954/236641677-b700a551-754f-4ad3-afd5-8e27dc2ab2db.JPG)
+
+-UseConnectionPool: 
+
+![img](https://user-images.githubusercontent.com/128442954/236641715-27a07f46-35f4-416e-b5f1-061136a5a82d.JPG)
+
+
+
+
 
