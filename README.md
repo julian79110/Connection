@@ -53,6 +53,13 @@ funciona con una dependencia de apache en este caso dbcp2 a traves de BasicDataS
 
 ![img](https://user-images.githubusercontent.com/128442954/236641715-27a07f46-35f4-416e-b5f1-061136a5a82d.JPG)
 
+-Encriptamiento de la contraseña: Con el gestor de base de datos mysql en la base de datos MyApp ingresamos un registro y encriptamos la contraseña y la desencriptamos para poder visualizarla, y pedirle que el nombre y el apellido siempre esten en mayusculas 
+
+![img2](https://user-images.githubusercontent.com/128442954/236641970-bdbb6b6a-a30c-4813-9238-6bef1219e0e1.JPG)
+
+
+
+
 
 
 
