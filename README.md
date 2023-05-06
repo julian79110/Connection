@@ -35,3 +35,8 @@ Por ultimo con las palabras reservadas try catch cerramos todos los objetos que 
 
 ![img2](https://user-images.githubusercontent.com/128442954/236641019-07273722-7cf0-49be-ab24-0d2d6ee4c7db.JPG)
 
+-Archivo ConnectionSingleton: en esta conexion se hace para un solo usuario, no se puede usar para varias conexiones al tiempo 
+
+![img3](https://user-images.githubusercontent.com/128442954/236641366-6f3b169a-6d16-400e-98d0-a52f49718c0e.JPG)
+
+
